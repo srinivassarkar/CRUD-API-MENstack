@@ -1,0 +1,16 @@
+{
+  "name": "crud_app_with_mongodb",
+  "version": "1.0.0",
+  "description": "Basic CRUD App with MongoDB  and Express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.3"
+  }
+}
